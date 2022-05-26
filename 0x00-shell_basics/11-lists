@@ -1,0 +1,6 @@
+#!/bin/bash
+ls -la . .. /bo >> 11-lists
+
+
+ls
+echo ls -la . .. /bo
