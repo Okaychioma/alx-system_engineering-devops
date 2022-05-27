@@ -1,2 +1,3 @@
 ls -apm | sort -d
 ls -1apm | sort -d
+ls -1apm
